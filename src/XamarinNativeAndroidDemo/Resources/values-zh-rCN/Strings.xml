@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">嘿, 点击我!</string>
+    <string name="ApplicationName">演示</string>
+    <string name="MovieName">电影名字</string>
+    <string name="Description">电影描述</string>
+  <string name="LinearLyoutText">线性布局 </string>
+  <string name="LinearLyoutText2">线性布局2 </string>
+  <string name="AbsoluteLayoutText">绝对布局</string>
+  <string name="FrameLayoutText">帧布局</string>
+  <string name="GridLayoutText">网格布局</string>
+  <string name="TableLayoutText">表格布局</string>
+  <string name="RelativeLayoutText">相对布局</string>
+  <string name="RelativeLayoutText2">相对布局2</string>
+  <string name="MovieText">电影</string>
+  <string name="MovieDetailText">电影详细</string>
+</resources>

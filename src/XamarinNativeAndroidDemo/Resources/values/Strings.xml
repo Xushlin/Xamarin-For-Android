@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">Demo</string>
+  <string name="MovieName">Movie Name</string>
+  <string name="Description">Movie Name</string>
+  <string name="LinearLyoutText">Linear Layout </string>
+  <string name="LinearLyoutText2">Linear Layout2 </string>
+  <string name="AbsoluteLayoutText">Absolute Layout</string>
+  <string name="FrameLayoutText">Frame Layout</string>
+  <string name="GridLayoutText">Grid Layout</string>
+  <string name="TableLayoutText">Table Layout</string>
+  <string name="RelativeLayoutText">Relative Layout</string>
+  <string name="RelativeLayoutText2">Relative Layout2</string>
+  <string name="MovieText">Movie</string>
+  <string name="MovieDetailText">Movie Detail</string>
+
+</resources>

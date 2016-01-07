@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="RedBackgroud">
+    <item name="android:background">@color/red</item>
+  </style>
+
+  <style name="Theme.Main" parent="@android:style/Theme">
+    <item name="android:windowTitleSize">40dp</item>
+    <item name="android:windowTitleBackgroundStyle">@style/RedBackgroud</item>
+    <item name="android:windowTitleStyle">@style/WindowTitleStyle</item>
+    <item name="android:windowBackground">@color/grey</item>
+  </style>
+
+  <style name="Theme.Custom" parent="@android:style/Theme">
+    <item name="android:windowTitleSize">40dp</item>
+    <item name="android:windowTitleBackgroundStyle">@style/RedBackgroud</item>
+    <item name="android:windowTitleStyle">@style/WindowTitleStyle</item>
+    <item name="android:windowBackground">@color/grey</item>
+  </style>
+  
+  <style name="WindowTitleStyle">
+    <item name="android:textSize">25sp</item>
+    <item name="android:shadowColor">#f00</item>
+    <item name="android:textColor">#FFF</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+</resources>
