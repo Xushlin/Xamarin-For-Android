@@ -145,20 +145,20 @@ namespace AndroidDemo
 			// aapt resource value: 0x7f07000a
 			public const int bn4 = 2131165194;
 			
-			// aapt resource value: 0x7f07000b
-			public const int bn5 = 2131165195;
-			
 			// aapt resource value: 0x7f07000c
-			public const int bn6 = 2131165196;
+			public const int bn5 = 2131165196;
 			
 			// aapt resource value: 0x7f07000d
-			public const int bn7 = 2131165197;
+			public const int bn6 = 2131165197;
+			
+			// aapt resource value: 0x7f07000e
+			public const int bn7 = 2131165198;
 			
 			// aapt resource value: 0x7f07001d
 			public const int button0 = 2131165213;
 			
-			// aapt resource value: 0x7f070018
-			public const int button1 = 2131165208;
+			// aapt resource value: 0x7f07000b
+			public const int button1 = 2131165195;
 			
 			// aapt resource value: 0x7f070019
 			public const int button2 = 2131165209;
@@ -166,32 +166,32 @@ namespace AndroidDemo
 			// aapt resource value: 0x7f07001a
 			public const int button3 = 2131165210;
 			
-			// aapt resource value: 0x7f070014
-			public const int button4 = 2131165204;
-			
 			// aapt resource value: 0x7f070015
-			public const int button5 = 2131165205;
+			public const int button4 = 2131165205;
 			
 			// aapt resource value: 0x7f070016
-			public const int button6 = 2131165206;
+			public const int button5 = 2131165206;
 			
-			// aapt resource value: 0x7f070010
-			public const int button7 = 2131165200;
+			// aapt resource value: 0x7f070017
+			public const int button6 = 2131165207;
 			
 			// aapt resource value: 0x7f070011
-			public const int button8 = 2131165201;
+			public const int button7 = 2131165201;
 			
 			// aapt resource value: 0x7f070012
-			public const int button9 = 2131165202;
+			public const int button8 = 2131165202;
+			
+			// aapt resource value: 0x7f070013
+			public const int button9 = 2131165203;
 			
 			// aapt resource value: 0x7f070022
 			public const int buttonAbsoluteLayout = 2131165218;
 			
-			// aapt resource value: 0x7f07000f
-			public const int buttonClear = 2131165199;
+			// aapt resource value: 0x7f070010
+			public const int buttonClear = 2131165200;
 			
-			// aapt resource value: 0x7f070013
-			public const int buttonDivision = 2131165203;
+			// aapt resource value: 0x7f070014
+			public const int buttonDivision = 2131165204;
 			
 			// aapt resource value: 0x7f07001c
 			public const int buttonDot = 2131165212;
@@ -229,11 +229,11 @@ namespace AndroidDemo
 			// aapt resource value: 0x7f07001b
 			public const int button_ = 2131165211;
 			
-			// aapt resource value: 0x7f070017
-			public const int buttonx = 2131165207;
+			// aapt resource value: 0x7f070018
+			public const int buttonx = 2131165208;
 			
-			// aapt resource value: 0x7f07000e
-			public const int eidtText1 = 2131165198;
+			// aapt resource value: 0x7f07000f
+			public const int eidtText1 = 2131165199;
 			
 			// aapt resource value: 0x7f07002c
 			public const int imageViewPicture = 2131165228;
