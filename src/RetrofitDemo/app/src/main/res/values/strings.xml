@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="MovieName">电影名字</string>
+    <string name="Description">电影描述</string>
+    <string name="MovieText">电影</string>
+    <string name="MovieDetailText">电影详细</string>
+    <string name="error_msg">There was a problem retrieving the data. Please try again later.</string>
+</resources>
